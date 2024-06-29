@@ -12,8 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](lucascruz980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/lucas-cruz-2687b0226/](https://www.linkedin.com/in/lucas-cruz-2687b0226/))
-
+)]([https://www.linkedin.com/in/lucas-cruz-2687b0226/])
 #
 ![Lumax GitHub stats](https://github-readme-stats.vercel.app/api?username=lumax980&show_icons=true&theme=dark)
 
